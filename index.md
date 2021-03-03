@@ -9,12 +9,6 @@ This project is a part of [COSPAR ISWAT](https://www.iswat-cospar.org/iswat-cosp
 - Third, to use this information to further improve the predictive capabilities of ambient solar wind models.
 
 
-- Bulleted
-- List
+Example output is given 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-Example output is given [Here](url) and ![Image](src)
+![Image](https://github.com/shibaji7/ISWAT_CV/blob/main/iswat_mva/data/mva.Figure03.png)
