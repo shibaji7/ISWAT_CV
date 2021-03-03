@@ -8,7 +8,8 @@ This project is a part of [COSPAR ISWAT](https://www.iswat-cospar.org/iswat-cosp
 - Second, to develop strategies to quantitatively assess the spatial and temporal uncertainty of coronal hole boundary locations. 
 - Third, to use this information to further improve the predictive capabilities of ambient solar wind models.
 
+**Action Topics**
+Quantification of uncertainties in mapping to solar wind sources
 
-Example output is given 
-
+Example output from `openCV` is given below:
 ![Image](https://github.com/shibaji7/ISWAT_CV/blob/main/iswat_mva/data/mva.Figure03.png)
