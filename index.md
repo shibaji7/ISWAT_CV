@@ -1,6 +1,5 @@
 ## Welcome to Coronal Hole Boundary Detection using CHRIPS Algorithm
 
-```markdown
 This project is a part of [COSPAR ISWAT](https://www.iswat-cospar.org/iswat-cospar). The COSPAR ISWAT initiative is a global hub for collaborations addressing challenges across the field of space weather.
 
 
@@ -19,4 +18,3 @@ This project is a part of [COSPAR ISWAT](https://www.iswat-cospar.org/iswat-cosp
 **Bold** and _Italic_ and `Code` text
 
 Example output is given [Here](url) and ![Image](src)
-```
