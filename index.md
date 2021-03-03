@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shibaji7/ISWAT_CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to Coronal Hole Boundary Detection using CHRIPS Algorithm
 
 ```markdown
-Syntax highlighted code block
+This project is a part of [COSPAR ISWAT](https://www.iswat-cospar.org/iswat-cospar). The COSPAR ISWAT initiative is a global hub for collaborations addressing challenges across the field of space weather.
 
-# Header 1
-## Header 2
-### Header 3
+
+### The objectives of this work are following: 
+- First, to build a `openCV` and `CNN` based automated coronal hole detection schemes. 
+- Second, to develop strategies to quantitatively assess the spatial and temporal uncertainty of coronal hole boundary locations. 
+- Third, to use this information to further improve the predictive capabilities of ambient solar wind models.
+
 
 - Bulleted
 - List
@@ -23,15 +18,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Example output is given [Here](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shibaji7/ISWAT_CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
